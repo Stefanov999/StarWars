@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Stefanov999/StarWars.git/static/css/main.dbab2dc2.css",
+    "main.js": "/Stefanov999/StarWars.git/static/js/main.f32b163b.js",
+    "static/js/787.ae40d5be.chunk.js": "/Stefanov999/StarWars.git/static/js/787.ae40d5be.chunk.js",
+    "index.html": "/Stefanov999/StarWars.git/index.html",
+    "main.dbab2dc2.css.map": "/Stefanov999/StarWars.git/static/css/main.dbab2dc2.css.map",
+    "main.f32b163b.js.map": "/Stefanov999/StarWars.git/static/js/main.f32b163b.js.map",
+    "787.ae40d5be.chunk.js.map": "/Stefanov999/StarWars.git/static/js/787.ae40d5be.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dbab2dc2.css",
+    "static/js/main.f32b163b.js"
+  ]
+}
